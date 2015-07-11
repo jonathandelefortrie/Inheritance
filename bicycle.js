@@ -2,8 +2,8 @@
 
     'use strict';
 
-	var Base = Fry.Base;
-	var Class = Fry.Class;
+    var Base = Fry.Base;
+    var Class = Fry.Class;
 
     function Bicycle() {
 
